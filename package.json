@@ -1,0 +1,25 @@
+{
+  "name": "javascript_projects",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated",
+  "main": "JavaScript_objects.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevinMcDermand/dlm-devcamp-js-builder.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Your Devin McDermand <devinmcdermand@gmail.com> (http://www.yourhomepage.comhttps://github.com/DevinMcDermand)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevinMcDermand/dlm-devcamp-js-builder/issues"
+  },
+  "homepage": "https://github.com/DevinMcDermand/dlm-devcamp-js-builder#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
